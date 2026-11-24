@@ -1,8 +1,18 @@
-<h1 align="center">José David Osorio Gallego</h1>
-<p align="center"><strong>Desarrollo de software · Ciberseguridad · Datos</strong></p>
-<p align="center"><a href="https://github.com/josedavidosorio2005/PORTAFOLIO-JOSE-">Portafolio</a> · <a href="https://josedavidosorio2005.github.io/Aurabyte/">Aurabyte</a> · <a href="https://josedavidosorio2005.github.io/Aurabyte/#contacto">Contacto profesional</a></p>
+<h1 align="center">Hola, soy José David Osorio Gallego 👋</h1>
+<p align="center"><strong>Ciberseguridad · Desarrollo de software · Análisis de datos</strong><br>Ingeniería en Desarrollo de Software y Datos · 7.º semestre · Colombia</p>
+<p align="center">
+  <a href="https://github.com/josedavidosorio2005/PORTAFOLIO-JOSE-"><img alt="Ver mi portafolio" src="https://img.shields.io/badge/Portafolio-24476B?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://josedavidosorio2005.github.io/Aurabyte/"><img alt="Visitar Aurabyte" src="https://img.shields.io/badge/Aurabyte-086B68?style=for-the-badge"></a>
+  <a href="mailto:aurabyte.software@gmail.com"><img alt="Enviar correo a Aurabyte" src="https://img.shields.io/badge/Correo-B64035?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+</p>
 
-Soy estudiante de Ingeniería en Desarrollo de Software y Datos en Colombia. Trabajo en ciberseguridad y desarrollo herramientas de auditoría, aplicaciones web y flujos de análisis con Python y JavaScript.
+Trabajo en ciberseguridad y desarrollo herramientas para documentar auditorías. También construyo aplicaciones web y analizo datos con Python. Busco oportunidades remotas en desarrollo, ciberseguridad y automatización.
+
+## Tecnologías
+
+![Python, JavaScript, React, Vite, Node.js, Express, Git, GitHub Actions y Linux](https://skillicons.dev/icons?i=python,js,react,vite,nodejs,express,git,githubactions,linux&perline=5)
+
+Uso **Typer y Textual** para construir interfaces de terminal y **pandas** para explorar y transformar datos.
 
 ## Proyecto principal · Aurabyte Security Terminal
 
@@ -28,10 +38,4 @@ Flujo reproducible con pandas. El filtro de longitud del pétalo conservó 113 d
 
 También puedes explorar [el código del sitio de Aurabyte](https://github.com/josedavidosorio2005/Aurabyte) y [CreditSmart, una aplicación académica en React](https://github.com/josedavidosorio2005/S30---EA2-Desarrollo-de-Aplicaci-n-Web-Din-mica-con-React---CreditSmart).
 
-## Herramientas y colaboración
-
-**Web** · JavaScript, React, Vite, Node.js y Express  
-**Python** · pandas, Typer y Textual  
-**Flujo de trabajo** · Git, GitHub Actions, Windows y Linux
-
-Open to remote opportunities in software development, cybersecurity, and automation. [Contact me through Aurabyte](https://josedavidosorio2005.github.io/Aurabyte/#contacto).
+[Contacto profesional a través de Aurabyte](https://josedavidosorio2005.github.io/Aurabyte/#contacto)
